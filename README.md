@@ -1,2 +1,0 @@
-# williamcioffi.github.io
-website
