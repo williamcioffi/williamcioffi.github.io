@@ -3,7 +3,7 @@
 ### pages
 - [sattagutils](https://williamcioffi.github.io/sattagutils)
 	an R package for manipulating wildlife computer style sat tags
-- [keratin archives](http://people.duke.edu/~wrc14/keras/)
+- [keratin archives](https://williamcioffi.github.io/keras)
 	biomolcules in baleen
 
 ### contact
