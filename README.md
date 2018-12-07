@@ -3,6 +3,8 @@
 ### pages
 - [sattagutils](https://williamcioffi.github.io/sattagutils)
 	an R package for manipulating wildlife computer style sat tags
+- [monitorgonio](https://williamcioffi.github.io/monitorgonio)
+	an R package containing a shiny app to display [Argos Goniometer](https://www.clsamerica.com/argos-goniometer) output in the field.
 - [keratin archives](https://williamcioffi.github.io/keras)
 	biomolcules in baleen
 
