@@ -3,7 +3,7 @@
 ### pages
 - [keratin archives](https://williamcioffi.github.io/keras)
 	biomolcules in baleen.
-- [sattagutils](https://williamcioffi.github.io/sattagutils)
+- [sattagutils](https://github.com/williamcioffi/sattagutils)
 	an R package for handling data from Wildlife Computers satallite tags.
 - [monitorgonio](https://williamcioffi.github.io/monitorgonio)
 	an R package containing a shiny app to display output in the field.
