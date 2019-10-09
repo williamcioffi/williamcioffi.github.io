@@ -18,3 +18,6 @@ Beaufort, NC 28516, USA<br />
 wrc14 [at] duke.edu<br />
 [orcid.org/0000-0003-1182-8578](https://orcid.org/0000-0003-1182-8578)<br />
 [google scholar](https://scholar.google.com/citations?user=dIR3B28AAAAJ&hl=en&oi=sra)
+
+![](style/minkelogo_bw.svg)
+
