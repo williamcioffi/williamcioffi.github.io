@@ -6,7 +6,7 @@
 - [sattagutils](https://github.com/williamcioffi/sattagutils)
 	an R package for handling data from Wildlife Computers satallite tags.
 - [monitorgonio](https://github.com/williamcioffi/monitorgonio)
-	an R package containing a shiny app to display CLS Goniometer output in the field.
+	an R package containing a shiny app to display Argos Goniometer output in the field.
 - [parsegonio](https://github.com/williamcioffi/parsegonio)
 	an R function for parsing Argos Goniometer recieved mesages form Wildlife Computers satallite tags.
 
