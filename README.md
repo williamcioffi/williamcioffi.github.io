@@ -1,6 +1,7 @@
 ## williamcioffi.github.io
 
-### pages
+### pages]
+- [horrible R mistakes](https://github.com/williamcioffi/horrible_r_mistakes) a collection of mistakes in R from which to learn. Contributions welcome!
 - [keratin archives](https://williamcioffi.github.io/keras)
 	biomolcules in baleen.
 - [sattagutils](https://github.com/williamcioffi/sattagutils)
