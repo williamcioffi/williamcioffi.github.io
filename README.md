@@ -1,7 +1,6 @@
 ## williamcioffi.github.io
 
 ### pages
-- [horrible R mistakes](https://github.com/williamcioffi/horrible_r_mistakes) a collection of mistakes in R from which to learn. Contributions welcome!
 - [keratin archives](https://williamcioffi.github.io/keras)
 	biomolcules in baleen.
 - [sattagutils](https://github.com/williamcioffi/sattagutils)
@@ -10,6 +9,7 @@
 	an R package containing a shiny app to display Argos Goniometer output in the field.
 - [parsegonio](https://github.com/williamcioffi/parsegonio)
 	an R function for parsing Argos Goniometer recieved mesages form Wildlife Computers satallite tags.
+- [horrible R mistakes](https://github.com/williamcioffi/horrible_r_mistakes) a collection of mistakes in R from which to learn. Contributions welcome!
 
 ### contact
 William R. Cioffi<br />
