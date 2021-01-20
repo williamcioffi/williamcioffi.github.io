@@ -2,7 +2,7 @@
 
 ### pages
 - [keratin archives](https://williamcioffi.github.io/keras)
-	biomolcules in baleen.
+	biomolecules in baleen.
 - [sattagutils](https://github.com/williamcioffi/sattagutils)
 	an R package for handling data from Wildlife Computers satallite tags.
 - [monitorgonio](https://github.com/williamcioffi/monitorgonio)
